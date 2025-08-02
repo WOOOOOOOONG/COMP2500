@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/01/leaning/01_grammar/01_grammar.iml" filepath="$PROJECT_DIR$/01/leaning/01_grammar/01_grammar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01/leaning/Leaning2.iml" filepath="$PROJECT_DIR$/01/leaning/Leaning2.iml" />
       <module fileurl="file://$PROJECT_DIR$/01/w01.iml" filepath="$PROJECT_DIR$/01/w01.iml" />
       <module fileurl="file://$PROJECT_DIR$/02/w02.iml" filepath="$PROJECT_DIR$/02/w02.iml" />
       <module fileurl="file://$PROJECT_DIR$/03/w03.iml" filepath="$PROJECT_DIR$/03/w03.iml" />
