@@ -9,7 +9,8 @@ public class Main {
     public class One { }
 
     // OK
-    public class Two {
+    public class Two { }
 
+    public static void main(String[] args) {
     }
 }
