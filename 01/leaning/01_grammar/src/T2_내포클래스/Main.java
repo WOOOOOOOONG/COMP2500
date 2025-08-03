@@ -11,5 +11,5 @@ public class Main {
     // OK
     public class Two { }
 
-    public static void main(String[] args) { }
+    public static void main(String[] args) {  }
 }
