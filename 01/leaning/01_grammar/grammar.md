@@ -106,4 +106,4 @@ C/C++은 Linker를 통해 손쉽게 연결 가능하나 JVM은 Runtime에 Reflec
 
 ...납득
 
-
+K
