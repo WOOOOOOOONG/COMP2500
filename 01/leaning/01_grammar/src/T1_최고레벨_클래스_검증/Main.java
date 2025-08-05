@@ -12,11 +12,11 @@ public class Main {
 }
 
 // Error Message: 클래스 'FakeMain'은(는) public이며, 이름이 'FakeMain.java'인 파일에 선언되어야 합니다
-public class FakeMain {
-    public static void main(String[] args) {}
-}
+//public class FakeMain {
+//    public static void main(String[] args) {}
+//}
 
 // Error Message: 제어자 'private'은(는) 허용되지 않습니다
-private class FakePrivateMain {
-    public static void main(String[] args) {}
-}
+//private class FakePrivateMain {
+//    public static void main(String[] args) {}
+//}

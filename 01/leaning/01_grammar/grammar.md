@@ -106,4 +106,14 @@ C/C++은 Linker를 통해 손쉽게 연결 가능하나 JVM은 Runtime에 Reflec
 
 ...납득
 
-K
+# META-INF 폴더
+- .jar 파일 내부에 META-INF\MANIFEST.MF 파일 존재
+- .jar 만들 때 같이 생성되는 파일
+- Java 애플리케이션의 정보를 담고 있는 메타데이터 파일
+- jar 파일의 시작점(메인 함수)에 대한 정보를 넣어야 한다.
+
+# java.lang
+- 기본 패키지이며, 모든 .java 파일에 자동으로 import되는 패키지
+- 출력에 사용되는 System 클래스는 java.lang 안에 있는 클래스 중 하나이다.
+
+# 실행 모델
